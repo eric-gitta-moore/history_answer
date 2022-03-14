@@ -8,3 +8,11 @@
 ## 热更新
 
 采用webdav方式热更新。热更新文件在webdav目录下
+
+## 截图
+
+![](http://tva1.sinaimg.cn/large/008d89Swgy1h09u877r9zj30o01hcq5l.jpg)
+
+![](http://tva1.sinaimg.cn/large/008d89Swgy1h09u877chej30o01hctd7.jpg)
+
+![](http://tva1.sinaimg.cn/large/008d89Swgy1h09u876jrgj30o01hcjvh.jpg)
